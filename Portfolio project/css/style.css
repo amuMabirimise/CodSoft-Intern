@@ -233,6 +233,26 @@ h5 {
 	margin-bottom: 30px;
 }
 
+.resume {
+	background: #101010;
+	width: 100%;
+	padding: 50px 0;
+	text-align: center;
+}
+
+.resume h3 {
+	font-size: 65px;
+	margin-top: -50px;
+	margin-bottom: 60px;
+}
+
+.resume img {
+	margin-top: 60px;
+}
+
+
+
+/*contact section*/
 .box-three {
 	width: 200px;
 	height: 180px;
