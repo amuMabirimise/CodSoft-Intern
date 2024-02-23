@@ -54,7 +54,7 @@
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	background: url("../img/amza.jpg") center/cover no-repeat, linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.20));
+	background: url("../img/galaxy.jpg") center/cover no-repeat, linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.20));
 	background-position: center;
 	background-size: cover;
 }
@@ -99,12 +99,11 @@
 }
 
 .places h2 {
-	color: red;
-	font-size: 35px;
+	color: #f8f8ff;
+	font-size: 45px;
 	letter-spacing: 3px;
 	border-radius: 1px;
 	padding: 30px 30px;
-	background-color: #000;
 }
 
 .places a {
@@ -118,7 +117,6 @@
 }
 
 .places a:hover {
-	background-color: #000;
 	letter-spacing: 3px;
 	transition: 0.6s;
 }
